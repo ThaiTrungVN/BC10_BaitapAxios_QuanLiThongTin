@@ -1,2 +1,0 @@
-# BC10_BaitapAxios_QuanLiThongTin
-BC10_BaitapAxios_QuanLiThongTin
